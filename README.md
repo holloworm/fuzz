@@ -53,9 +53,9 @@ This is my custom-designed fuzz pedal for electric guitar
 3. After designing and ordering the PCB, it was assembled and tested.
    
 
-![Fuzz Pedal Photo](assembled circuit.jpg)
+![Fuzz-1 Pedal Photo](assembled circuit.jpg)
 
-![Fuzz Pedal Photo](pedal.jpg)
+![Fuzz-2 Pedal Photo](pedal.jpg)
 
 
 
